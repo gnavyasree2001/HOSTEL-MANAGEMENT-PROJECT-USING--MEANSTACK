@@ -24,15 +24,3 @@
   
     npm run server
  
-## Download Node JS : 
-
-  **https://nodejs.org/en/download/**
-    
-
-## Download MongoDB Compass : 
-
-  **https://www.mongodb.com/try/download/compass**
-
- ## Youtube Link : 
- 
-  **https://youtu.be/W6DUKBNzUMQ**
